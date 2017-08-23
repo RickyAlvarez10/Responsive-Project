@@ -1,0 +1,79 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Enrique Alvarez | Front End Developerd Web</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style-01.css">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<link rel="shortcut icon" href="Images/favicon.ico">
+<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-101518211-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head> 
+<body>
+<div class="wrapper" id="top" >
+<header>
+<a id="skip-to-content" href="#main-content">Skip to content</a>
+<div class="col">
+<a class="image" href="index.html"><img src="Images/photo.png" alt="EA"></a>
+</div>
+<nav class="nav">
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a class="active" href="../index.html#Featured_Work">Featured Work</a></li>
+<li><a href="../index.html#About_Me">About Me</a></li>
+</ul>
+</nav>
+</header>
+<main class="main-class" id="main-content">
+<h3 class="text-01">Portfilio Project</h3>
+<h3 class="text-02">The objective of this project was to develop a portfolio piece that showcases work I have completed through the Technical Web Designer program. Not only does is feature my best work but it is also 
+responsive to all screen sizes aswell.<br><br>
+To see the completed project, please click on 
+"View Live Project"</h3>
+<h3 class="text-03">Skills: HTML & CSS</h3>
+
+<section class="sec">
+<div class="text-04-area">
+<a class="text-04" href="#">View Live Project</a>
+</div>
+<div class="view-code-area">
+<a class="view_code" href="#">View Code</a>
+</div>
+</section>
+<section class="sec-01">
+<div class="col-01">
+<img src="Images/photo-01.png" alt="First part of portfolio project">
+<img src="Images/photo-02.png" alt="Second part of portfolio project">
+<img src="Images/photo-03.png" alt="Third part of portfolio project">
+</div>
+</section>
+<section class="sec-02">
+<div class="text-05-area">
+<a class="text-05" href="../index.html">Home</a>
+</div>
+<div class="text-06-area">
+<a class="text-06" href="#top">Go to the Top</a>
+</div>
+</section>
+</main>
+</div>
+</body>
+</html>
+
+
+
+
+
+
