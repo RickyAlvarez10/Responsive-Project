@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Matching of Chess</title>
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+<link href="https://fonts.googleapis.com/css?family=Archivo+Black" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93803853-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div id ="wrapper">
+<header>
+<h1 class="mc">MC</h1>
+<h1 class="bounceInDown">Matching of Chess</h1>
+<button id="btn-start" class="btn-restart">Start Game</button>
+</header>
+
+<main>
+<div class="boxes">
+	
+<div class="box box1"></div>
+<div class="box box2"></div>
+<div class="box box3"></div>
+<div class="box box4"></div>
+
+<div class="box box5"></div>
+
+<div class="box box6"></div>
+<div class="box box7"></div>
+<div class="box box8"></div>
+
+<div class="box box9"></div>
+<div class="box box10"></div>
+<div class="box box11"></div>
+<div class="box box12"></div>
+<p class="Educational">For Educational Purposes Only &copy; Enrique Alvarez - All images provded by Pixabay</p>
+
+<div id="Game_Over_Box">
+	<h1 id="Game_over">Game Over!</h1>
+	<button id="Play_Again">Play Again?</button>
+	<button id="No_Thank_you">No Thank you</button>
+</div>
+
+</div>
+
+<div class="boxes01">
+
+<div id="Number_of_Matches">
+<h3>Number of Matches</h3>
+<p id="number_of_matches_out">0</p>
+</div>
+
+<div id="Number_of_Turns">
+<h3>Number of Turns</h3>
+<p id="number_of_turns_out">0</p>
+</div>
+</div>
+</main>
+</div>
+
+<footer>
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>	
