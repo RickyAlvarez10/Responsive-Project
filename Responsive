@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Enrique Alvarez | Front End Developerd Web</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<link rel="shortcut icon" href="Images/favicon.ico">
+<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-101518211-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head> 
+<body>
+<div class="wrapper" id="top">
+<header>
+<a id="skip-to-content" href="#main-content">Skip to content</a>
+<div class="col">
+<a class="image" href="../index.html"><img src="Images/photo.png" alt="EA"></a>
+</div>
+<nav class="nav">
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a class="active" href="../index.html#Featured_Work">Featured Work</a></li>
+<li><a href="../index.html#About_Me">About Me</a></li>
+</ul>
+</nav>
+</header>
+<main class="main-class" id="main-content">
+<div class="col-01">
+<h3 class="text-01">Responsive Project</h3>
+<h3 class="text-02">The objective of the city project was to select an existing city and to showcase the following requirements:</h3>
+<ul class="text-05">
+<li>Smartphone – portrait (320px wide)</li>
+<li>Smartphone – landscape (480px wide)</li>
+<li>Tablet – portrait (768px wide)</li>
+<li>Tablet – landscape(1024px wide)</li>
+<li>Desktop – widths wider than 1024px</li>
+</ul>
+<h3 class="text-06">To see the completed project, please click on "View Live Project"</h3>
+<h3 class="text-07">Skills: HTML, CSS, JavaScript</h3>
+<section class="sec">
+<div class="text-08-area">
+<a class="text-08" href="All-Things-Surfing/index.html">View Live Project</a>
+</div>
+<div class="view-code-area">
+<a class="view_code" href="#">View Code</a>
+</div>
+</section>
+</div>
+<section class="sec-01">
+<div class="desktop-area">
+<h3 class="desktop">Desktop Version</h3>
+</div>
+<div class="col-02">
+<img class="photo" src="Images/photo-01.png" alt="All Things Surfing">
+<img class="photo-01" src="Images/photo-02.png" alt="Snowboards">
+<img class="photo-02" src="Images/photo-03.png" alt="Beaches">
+<img class="photo-03" src="Images/photo-04.png" alt="All Things Surfing - Coming Soon">
+</div>
+</section>
+<div class="mobile-area">
+<h3 class="mobile">Mobile Version</h3>
+</div>
+<section class="sec-02">
+<div class="col-03">
+<img class="photo-04" src="Images/photo-05.png" alt="Responsive - part 1">
+<img class="photo-05" src="Images/photo-06.png" alt="Responsive - part 2">
+<img class="photo-06" src="Images/photo-07.png" alt="Responsive - part 3">
+</div>
+</section>
+<section class="sec-03">
+<div class="text-09-area">
+<a class="text-09" href="../index.html">Home</a>
+</div>
+<div class="text-10-area">
+<a class="text-10" href="#top">Go to the Top</a>
+</div>
+</section>
+</main>
+</div>
+</body>
+</html>
+
+
+
+
+
+
